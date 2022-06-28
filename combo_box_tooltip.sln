@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "combo_box_tooltip", "combo_box_tooltip\combo_box_tooltip.csproj", "{28797C5C-2974-4DA6-A80E-27D5170F906C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28797C5C-2974-4DA6-A80E-27D5170F906C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28797C5C-2974-4DA6-A80E-27D5170F906C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28797C5C-2974-4DA6-A80E-27D5170F906C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28797C5C-2974-4DA6-A80E-27D5170F906C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D6312A8-91EF-4DAC-BB36-CA263BF79943}
+	EndGlobalSection
+EndGlobal
